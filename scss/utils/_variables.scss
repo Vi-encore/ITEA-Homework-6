@@ -1,0 +1,88 @@
+/*colors*/
+$orange: #f7941e;
+$white: #ffffff;
+$black: #000000;
+$lightgrey: #fbfbfe;
+$dirtwhite: #f1f1f2;
+$transparent: transparent;
+$shadow-light: rgba(126, 126, 126, 0.3);
+
+/*padding,margin,etc*/
+$pd-0: 0;
+
+/*padding,margin,etc in em*/
+$pd-1: 1em;
+$pd-1half: 1.5em;
+$pd-3: 3em;
+
+/*padding,margin,etc in px*/
+$pd-5: 5px;
+$pd-6: 6px;
+$pd-10: 10px;
+$pd-20: 20px;
+
+/*padding,margin,etc in %*/
+$pd-4-pc: 4%;
+$pd-5-pc: 5%;
+$pd-6-pc: 6%;
+$pd-7-pc: 7%;
+$pd-8-pc: 8%;
+$pd-9-pc: 9%;
+$pd-10-pc: 10%;
+$pd-12-pc: 12%;
+
+/*width*/
+$w-100: 100%;
+$w-90: 90%;
+$w-50: 50%;
+$w-45: 45%;
+$w-23: 23%;
+$w-25: 25%;
+$w--35: 35px;
+
+/*font-weight*/
+$f-400: 400;
+$f-500: 500;
+$f-600: 600;
+$f-700: 700;
+
+/*line-height*/
+$l-24: 24px;
+$l-110: 110%;
+$l-120: 120%;
+$l-141: 140.6%;
+
+/*font-size*/
+$fz-xxs: 12px;
+$fz-xs: 14px;
+$fz-s: 16px;
+$fz-standart: 18px;
+$fz-m: 20px;
+$fz-l: 32px;
+$fz-xl: 40px;
+$fz-xxl: 45px;
+$fz-xxl: 56px;
+
+/*justify,align*/
+$between: space-between;
+$around: space-around;
+$center: center;
+$start: flex-start;
+
+/*font*/
+$primary-font: "Gilroy";
+$logo-font: "Homemade Apple";
+
+/*breakpoints*/
+$xl: 1200px;
+$l: 992px;
+$m: 670px;
+$s: 576px;
+$xs: 376px;
+
+/*arrow*/
+$right-arrow: " ›";
+
+/*height for cards*/
+$h-normal: 166px;
+$h-small: 133px;
